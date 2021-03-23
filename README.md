@@ -5,9 +5,4 @@
 - 💬 Wechat: Lolita-tea
 - 📫 How to reach me: [Email](736929286@qq.com) 
 
-
-<!-- If you're using "master" as default branch -->
-![Metrics](https://github.com/visiky/visiky/blob/master/github-metrics.svg)
-
-<!-- If you're using "main" as default branch -->
-![Metrics](https://github.com/visiky/visiky/blob/main/github-metrics.svg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=me-momo&theme=dracula&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
