@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-- 🔭 I’m currently working on a BI department in Ant Financial
+- 🔭 I’m currently working on a BI department in Ant Group
 - 🌱 I’m focus on data visualization and data analysis
 - 📫 How to reach me: [Email](736929286@qq.com) 
 - 📚 https://www.zhihu.com/people/visiky
