@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on a BI department in Ant Group
 - 🌱 I’m focus on data visualization and data analysis
 - 📫 How to reach me: [Email](736929286@qq.com) 
-- 📚 https://www.zhihu.com/people/visiky
+- 📚 zhihu(知乎)：https://www.zhihu.com/people/visiky
+- 🐦 yuque(语雀)：https://www.yuque.com/kasmine
 
 ### Others
 
