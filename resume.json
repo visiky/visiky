@@ -1,16 +1,25 @@
 {
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经历",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "自我介绍"
+  },
   "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
+    "name": "廖晓娟",
+    "email": "736929286@qq.com",
+    "mobile": "15625057119",
     "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
+    "zhihu": "https://zhihu.com/people/visiky",
     "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
+    "workPlace": "",
+    "positionTitle": ""
   },
   "educationList": [
     {
@@ -76,21 +85,15 @@
       "project_name": "数据作战室",
       "project_role": "前端负责人",
       "project_time": "2019.04 - 2020.06",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取指标进展以及决策洞察，并提升管理效率。",
+      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
       "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
     },
     {
       "project_name": "DeepInsight",
       "project_role": "可视分析负责人",
-      "project_time": "2018.07 - 2019.04 / 2020.07 - 2022.02",
+      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
       "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
       "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
-    },
-     {
-      "project_name": "智能可观测性平台（商业化）",
-      "project_role": "前端负责人",
-      "project_time": "2022.08 - 至今",
-      "project_desc": "可观测性平台主要为业务提供完善的稳定性保障体系，提供全息可观测能力（融合各项可观测能力，如指标、日志、trace、性能分析）以及内置数据智能（包括灵活的数据探索分析，以及智能定位、告警、实现故障自愈）。"
     },
     {
       "project_name": "G2、G2Plot",
@@ -107,5 +110,6 @@
   "theme": {
     "color": "#2f5785",
     "tagColor": "#8bc34a"
-  }
+  },
+  "template": "template1"
 }
