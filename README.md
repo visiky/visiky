@@ -1,6 +1,6 @@
 ### Hi guys 👋
 
-- 🔭 I use to work for Ant Group on a BI department and the of [AntV](https://github.com/antvis)
+- 🔭 I use to work for Ant Group on a BI department and the team of [AntV](https://github.com/antvis)
 - 🌱 I’m focus on data visualization and data analysis
 - 📫 How to reach me: visiky@qq.com
 - 📚 zhihu(知乎)：https://www.zhihu.com/people/visiky
