@@ -1,10 +1,15 @@
 ### Hi guys 👋
 
-- 🔭 I use to work for Ant Group on a BI department and the team of [AntV](https://github.com/antvis)
 - 🌱 I’m focus on data visualization and data analysis
 - 📫 How to reach me: visiky@qq.com
 - 📚 zhihu(知乎)：https://www.zhihu.com/people/visiky
 - 🐦 yuque(语雀)：https://www.yuque.com/kasmine
+- 👾 github：https://github.com/visiky
+
+2017.06~2023
+
+- 🔭 就职于蚂蚁集团，主要从事 BI 产品以及数据产品领域
+- 🎩 蚂蚁数据可视化 AntV 团队主要成员
 
 ### Others
 
