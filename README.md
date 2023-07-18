@@ -1,3 +1,8 @@
+
+字节跳动招聘中，简历可发 liaoxiaojuan@bytedance.com
+
+-------
+
 ### Hi guys 👋
 
 - 🌱 I’m focus on data visualization and data analysis
